@@ -9,6 +9,6 @@
 
 ## تکنولوژی های استفاده شده
 
--**python**
--**custometkinter**
--**github**
+- **python**
+- **custometkinter**
+- **github**
